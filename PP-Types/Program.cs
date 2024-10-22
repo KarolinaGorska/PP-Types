@@ -15,7 +15,7 @@ string[] names = {
 void PrintGroups(string[] t, int perLine)
 {
 
-    // Write required code.
+            if ((i + 1) % perLine == 0)
 
 }
 
